@@ -1,1 +1,3 @@
-This folder contains the program for audio analysis and sending those results to Helium device vias Serial communication
+# Sparkfun Audio Analysis 
+This folder contains codes to be flashed on Redboard Artemis to detect mosquito, bee, chainsaw which was trained with Tensorflow framework in Colab
+notebook.
