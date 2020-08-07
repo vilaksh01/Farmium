@@ -1,1 +1,5 @@
-# Farmium
+# Farmium - Helium Farm Companion Device
+This project demonstrates how to build a HELIUM connected agricultural tool that continuously measures farm and plants data like temperature, humidity, gas levels, moisture, light intensity, plant height and also detects disease causing pests or activities like cutting trees and making real-time data available to users online. The system can be deployed to remote villages, forests with a one-time setup, and can be left to run on its own, automatically collecting data without the need for users to be present. Multiple Farmium devices can be placed throughout a village to collect many points of data eventually creating a star mesh topology with Farmium base stations to analyse complex data.
+Measurement data is pushed to the Amazon AWS cloud or other IoT dashboard through the Helium network connectivity, and can be viewed online through IoT dashboard and other services are used to send email notifications to users when the values reaches a critical level.
+
+Read our project here at: https://www.hackster.io/farmium/farmium-helium-farm-companion-40cb3f
